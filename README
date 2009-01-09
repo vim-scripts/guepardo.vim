@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2512
+
+This scheme was inspired by OSX Leopard colors. Is light, blue-greyish and very clean. Though designed for general use, some attention was paid to make it Pythonic.
+
+http://img258.imageshack.us/img258/4890/picture13vn4.png
+
+Hope You like it.
+
+Since I can't update this file using this site (update doesn  work) you can have the latest version form:
+
+http://svn.pixagora.com/vim
+
