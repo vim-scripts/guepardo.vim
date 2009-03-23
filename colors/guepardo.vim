@@ -27,7 +27,7 @@ let g:colors_name = "guepardo"
 " 0086b5: Deep blue
 
 " Violet:
-" 49700cc: Deep purple
+" 4970cc: Deep purple
 
 "Orange:
 " d66715: Burnt Orange
@@ -45,10 +45,10 @@ hi Comment	gui=italic		guifg=#5181ab "Greish blue
 hi String	guifg=#7f7f7f "Strong gray
 hi Constant	guifg=#5181ab "Greysh blue
 hi pythonBuiltin guifg=#5181ab "Greysh blue
-hi Special	guifg=#49700cc "Deep purple
+hi Special	guifg=#4970cc "Deep purple
 hi Identifier guifg=#1ca330 "Deep green
 hi Statement gui=bold	guifg=#0086b5 "Deep blue
-hi PreProc	gui=bold   guifg=#49700cc "Deep purple
+hi PreProc	gui=bold   guifg=#4900cc "Deep purple
 hi Type	gui=bold		guifg=#0086b5 "Deep blue
 hi Function	gui=bold guifg=#0086b5 "Deep blue
 hi Repeat	gui=bold guifg=Black
@@ -65,7 +65,7 @@ hi pythonConditional gui=bold guifg=Black " Python conditonnal : if, elif, else,
 hi pythonPrecondit guifg=#894c24 " python Precondit : import from
 hi pythonOperator gui=bold guifg=Black " pythonOperator : and, in, is, not, or
 hi pythonComment gui=italic		guifg=#5181ab "Greish blue
-hi pythonRawString guifg=#49700cc " Python raw strings
+hi pythonRawString guifg=#4970cc " Python raw strings
 
 "Gui:
 hi LineNr	    guibg=#5181ab guifg=#ffffff
@@ -79,7 +79,7 @@ hi MatchParen	guibg=#ff8d03 guifg=White
 hi CursorLine	guibg=#deefff
 hi Search	    guibg=White guifg=#ff8d03
 hi IncSearch	guibg=White guifg=#ff8d03
-hi SpecialKey	guifg=#49700cc
+hi SpecialKey	guifg=#4970cc
 hi WarningMsg	guibg=Red guifg=White
 hi Menu        guibg=#ff6a6a guifg=#000000
 hi Pmenu	    guibg=#babdb6 guifg=#555753
